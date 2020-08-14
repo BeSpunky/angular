@@ -1,3 +1,6 @@
+# This is a clean Angular app build with `ng new`. It is meant to be used as a template for StackBlitz, CodeSandbox etc.
+Seems like the featured templates they have for Angular don't play well with the new versions of Angular. This allows for a clean project.
+
 # Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
